@@ -1,9 +1,9 @@
 {
   "header": {
     "icon": {
-      "name": "Tina",
-      "color": "orange",
-      "style": "float"
+      "name": "BiSolidBookAlt",
+      "color": "blue",
+      "style": "circle"
     },
     "name": "Tina Starter",
     "color": "default",
