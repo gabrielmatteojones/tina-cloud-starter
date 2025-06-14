@@ -5,7 +5,7 @@
       "color": "blue",
       "style": "circle"
     },
-    "name": "Tina Starter",
+    "name": "Bibliotecando con Gabriel Matteo Jones",
     "color": "default",
     "nav": [
       {
@@ -13,8 +13,8 @@
         "label": "Home"
       },
       {
-        "href": "/about",
-        "label": "About"
+        "href": "https://gabrieljones.it",
+        "label": "Gabriel Matteo Jones"
       },
       {
         "href": "/posts",
